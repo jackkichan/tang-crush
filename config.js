@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'nhắn luôn cho mình nhé.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'htpps://m.me/100014996986769’
+    messLink: 'https://m.me/100014996986769
 }
