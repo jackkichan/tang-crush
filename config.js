@@ -8,11 +8,11 @@ const CONFIG = {
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích cậu <33',
-    btnNo: 'Không,thằng ml:3',
+    btnNo: 'Không,đồ ngốc:3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho tớ <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
+    mess: 'anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'nhắn luôn cho mình nhé.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/t/100014996986769
