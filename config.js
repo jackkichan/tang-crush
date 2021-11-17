@@ -12,8 +12,8 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho tớ <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'nhắn luôn cho mình nhé.',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'Nhắn luôn cho mình nhé.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me/t/100014996986769
+    messLink: 'https://m.me/t/100014996986769/'
 }
